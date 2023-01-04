@@ -14,7 +14,7 @@ public class P_Transaksi {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hallo XANNN");
+        System.out.println("Hallo maimun");
     }
     
 }
